@@ -1,4 +1,4 @@
-Job Scout Agent
+Vibe coding
 Job Scout Agent is an intelligent, agentic job tracking and notification system designed to automate the job search process for data and analytics professionals. It continuously scrapes company career pages, analyzes job listings, extracts LinkedIn contacts, and delivers actionable daily notifications and insights.
 
 Key Features
